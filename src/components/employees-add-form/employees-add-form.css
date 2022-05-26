@@ -1,0 +1,22 @@
+.app-add-form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background: #3d5a80;
+    padding-bottom: 30px;
+    
+}
+.add-form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 5px 30px;
+}
+.form-control{
+    margin: 5px 0;
+}
+.app-add-title{
+    margin: 5px 30px;
+    color:rgb(255, 255, 255);
+} 
